@@ -12,6 +12,7 @@
 #include <thread>
 #include <windows.h>
 #include <shellapi.h>
+// Le fichier api.h n'ai pas fourni pour des raisons de sécurité
 #include "api.h"
 #include <thread>
 
